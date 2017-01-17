@@ -10,6 +10,7 @@ using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {
 	cout<<"Hello World";
+	Cout<<"My name is Bikash";
 	getch();
 	return 0;
 }
